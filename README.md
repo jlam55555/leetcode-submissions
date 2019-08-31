@@ -11,3 +11,6 @@ My solutions for Leetcode problems
 
 ## Some cool algorithms
 - Two-pointer problems: sorted arrays, most water problem, Floyd's cycle-finding algorithm
+- Randomization: (e.g., 169, majority element): can be used to "guess and check"
+- Boyer-Moore majority voting algorithm
+- Boyer-Moore string search algorithm
